@@ -1,0 +1,37 @@
+.texto{
+    margin-top: 2rem;
+    margin-left: 15%;
+    width: 100%;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+.texto h1{
+    margin-top: 1rem;
+    width: 70%;
+    text-align: center;
+}
+
+.texto p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+    margin-left: 10%;
+    width: 50%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.texto ul{
+    width: 50%;
+    font-weight: 300;
+    font-size: 1.15rem;
+    margin-left: 16%;
+}
+
+.fonte{
+    font-weight: bold;
+}
